@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jordando.minesweeper.minesweeperbackend.controller.MinesweeperBackendControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-06-28T19:10:38" hostname="MN-C02W31KJHTD8" time="0.118">
+  <properties/>
+  <testcase name="minesweeperBackendController_shouldReturn200" classname="com.jordando.minesweeper.minesweeperbackend.controller.MinesweeperBackendControllerTest" time="0.118"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
